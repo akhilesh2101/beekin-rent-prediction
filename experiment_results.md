@@ -1,4 +1,4 @@
-```
+
 # Deliverable 1: Experiment Results
 
 ## Executive Summary
@@ -164,6 +164,3 @@ All experiments logged to MLflow with:
 - Models: Serialized XGBoost models for reproducibility
 
 Access logs via: mlflow ui in the project directory
-```
-
----
